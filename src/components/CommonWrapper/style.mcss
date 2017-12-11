@@ -1,0 +1,121 @@
+.top-content {
+  height: 32px;
+  line-height: 32px;
+  background: url(http://www.easyvoa.com/templets/images/head_link_bg.jpg);
+}
+.top-main {
+  width: 1024px;
+  margin: 0 auto;
+}
+.top-content span {
+  padding: 0 8px;
+  border-right: 1px solid #999;
+}
+.top-search {
+  float: right;
+  margin-right: 10px;
+}
+.top-search-inp {
+  width: 150px; 
+  height: 20px;
+  border: 1px solid #aaa;
+}
+.top-search-btn {
+  margin-left: 8px;
+  width: 60px;
+  height: 22px;
+  background: #fff;
+  border: 1px solid #aaa;
+  cursor: pointer;
+}
+.logo {
+  width: 1024px;
+  margin: 0 auto;
+  height: 70px;
+  background: #fff;
+}
+.header-logo {
+  float: left;
+  height: 60px;
+  margin: 5px 50px 0 60px;
+}
+.header-list {
+  overflow: hidden;
+}
+.header-item {
+  float: left;
+  padding: 0 10px;
+  margin-top: 14px;
+  font-size: 14px;
+  border-right: 1px solid #333;
+}
+.header-nav {
+  width: 1024px;
+  margin: 0 auto;
+  height: 106px;
+  border-bottom: 1px solid #ffe9d3;  
+}
+ a {
+  color: #333;
+}
+.header-nav-stander {
+  width: 115px;
+  float: left;
+  border-left: 1px solid #ffe9d3;
+  border-right: 1px solid #ffe9d3;
+}
+.header-nav-title {
+  background: #fdf4e5;
+  height: 26px;
+  line-height: 26px;
+  text-align: center;
+  color: #666;
+  border-top: 1px solid #ffe9d3;
+  border-bottom: 1px solid #ffe9d3;
+}
+.header-nav-stander .header-nav-content {
+  width: 100%;
+}
+.header-nav-slowList {
+  width: 423px;
+  float: left;
+  background: #fff;
+  
+}
+/* .header-nav-slowList  */
+.header-nav-content {
+  width: 20%;
+  float: left;
+  text-align: center;
+  height: 26px;
+  line-height: 26px;
+  background: #fff;
+}
+.header-nav-EnglishTeaching {
+  width: 482px;
+  float: left;
+  border-left: 1px solid #ffe9d3;
+  border-right: 1px solid #ffe9d3;
+}
+
+.bottom {
+  width: 1024px;
+  margin: 0 auto;
+  margin-top: 10px;
+  background: #fff;
+  color: #333;
+  text-align: center;
+  border: 1px solid #aaa;
+}
+.copy,.bottom-statement {
+  line-height: 30px;
+  height: 30px;
+}
+.bottom-statement {
+  border-bottom :10px solid #fff; 
+}
+.bottom-music {
+  width: 28px;
+  height: 28px;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.list-main {
+  width: 1024px;
+  margin: 0 auto;
+  margin-top: 10px;
+  background: #fff;
+}
+.list-item {
+  padding-left: 15px;
+  line-height: 26px;
+  font-size: 14px;
+  color: #333;
+}

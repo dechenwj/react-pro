@@ -1,0 +1,11 @@
+@import './reset.css';
+html body {
+  height: 100%;
+} 
+html {
+  background: #EDF8FC  url('http://www.easyvoa.com/templets/images/background.jpg') no-repeat;
+}
+.wrapper{
+  font: 12px Verdana,Arial,Tahoma;
+  color: #666;
+}
